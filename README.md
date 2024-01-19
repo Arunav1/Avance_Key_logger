@@ -1,0 +1,1 @@
+This is an advance key_loggervwhich will log the key strokes of a system when executed and will save the key strokes in the txt file. This python script uses .pyw extension so that is gets executed in the background which is the python window. 
